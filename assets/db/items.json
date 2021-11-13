@@ -8,8 +8,7 @@
     "url": "detail-01.html",
     "address": "Ortachala 23rd Tbilisi",
     "latitude": "41.681634",
-    "longitude": "44.828463",
-    "ribbon": "<i class='fa fa-thumbs-up'></i>",
+    "longitude": "44.828463",   
     "area": 356,
     "bedrooms": 2,
     "bathrooms": 1,
@@ -19,14 +18,14 @@
   },
   {
     "id": 2,
-    "title": "Cozy Design Studio",
-    "price": 125000,
+    "title": "OTI Digomi 2B",
+    "price": 89000,
     "category": 1,
-    "marker_image": "assets/img/img-item-thumb-02.jpg",
+    "marker_image": "assets/img/digomi2b.png",
     "url": "detail-01.html",
-    "address": "838 Keap Street",
-    "latitude": "40.73934141720079",
-    "longitude": "-73.68309894274904",
+    "address": "Dighomi 23B, Tbilisi Georgia ",
+    "latitude": "41.791692",
+    "longitude": "44.763081",
     "area": 720,
     "bedrooms": 1,
     "bathrooms": 3,
@@ -366,21 +365,7 @@
     "rooms": 3,
     "latitude": "40.75234669471232",
     "longitude": "-73.50594440173342"
-  },
-  {
-    "id": 25,
-    "title": "New Town Complex",
-    "price": 356000,
-    "marker_image": "assets/img/img-item-thumb-25.jpg",
-    "url": "detail-01.html",
-    "address": "Los Alamos, NM 87544",
-    "area": 740,
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "rooms": 12,
-    "latitude": "40.6857328526672",
-    "longitude": "-73.51675906848146"
-  },
+  }, 
 
 
   {
