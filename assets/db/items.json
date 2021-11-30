@@ -33,7 +33,7 @@
   },
   {
     "id": 3,
-    "title": "Family Villa",
+    "title": "OTI Tower 32",
     "price": 45900,
     "category": 2,
     "marker_image": "assets/img/img-item-thumb-03.jpg",
@@ -76,12 +76,12 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "rooms": 1,
-    "latitude": "40.75650784637493",
-    "longitude": "-73.59074512194826"
+    "latitude": "41.751371",
+    "longitude": "43.533555"
   },
   {
     "id": 6,
-    "title": "Bristol Tower Complex",
+    "title": "OTI Tower 32",
     "price": 85900,
     "additional_info": "",
     "marker_image": "assets/img/img-item-thumb-06.jpg",
@@ -92,8 +92,8 @@
     "bedrooms": 5,
     "bathrooms": 3,
     "rooms": 10,
-    "latitude": "40.735049117519694",
-    "longitude": "-73.5298053331299"
+    "latitude": "41.792322",
+    "longitude": "44.755856"
   },
   {
     "id": 7,
@@ -106,8 +106,8 @@
     "bedrooms": 4,
     "bathrooms": 2,
     "rooms": 8,
-    "latitude": "40.72217055684573",
-    "longitude": "-73.44139972399904"
+    "latitude": "41.845544",
+    "longitude": "43.382075"
   },
   {
     "id": 8,
@@ -118,8 +118,8 @@
     "marker_image": "assets/img/img-item-thumb-08.jpg",
     "url": "detail-01.html",
     "address": "871 Central Avenue, Freelandville",
-    "latitude": "40.690288655835346",
-    "longitude": "-73.7107364244385",
+    "latitude": "41.589496",
+    "longitude": "44.668779",
     "badge": "Rent",
     "area": 368,
     "bedrooms": 4,
@@ -152,8 +152,8 @@
     "bedrooms": 4,
     "bathrooms": 2,
     "rooms": 3,
-    "latitude": "40.682348340127156",
-    "longitude": "-73.584393651001"
+    "latitude": "42.602406",
+    "longitude": "42.924716"
   },
   {
     "id": 10,
@@ -163,8 +163,8 @@
     "marker_image": "assets/img/img-item-thumb-10.jpg",
     "url": "detail-03.html",
     "address": "230 High Street, Cumminsville",
-    "latitude": "40.70148159217449",
-    "longitude": "-73.448654666613771",
+    "latitude": "43.176547",
+    "longitude": "41.385945",
     "area": 190,
     "bedrooms": 4,
     "bathrooms": 2,
@@ -178,8 +178,8 @@
     "marker_image": "assets/img/img-item-thumb-11.jpg",
     "url": "detail-01.html",
     "address": "558 Ellery Street, Bellamy",
-    "latitude": "40.666595078439435",
-    "longitude": "-73.69442859362795"
+    "latitude": "43.175996,",
+    "longitude": "41.509598"
   },
   {
     "id": 12,
